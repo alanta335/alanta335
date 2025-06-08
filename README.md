@@ -16,12 +16,78 @@
 
 ## 🛠️ Tech Stack
 
-- **Backend:** Java, Spring Boot
-- **Frontend:** React, Flutter, Dart
-- **Others:** REST APIs, Microservices, SQL, Shell scripting
+- **Backend:** Java, Spring Boot, Node, Express Js
+- **Frontend:** React, Flutter
 
 ---
 
+## 🛠️ Skills
+
+### Programming Languages
+
+- Java 21, Java 17
+- Dart
+- SQL, NoSQL
+- JavaScript
+- Python
+- C++, C
+
+### Backend Development
+
+- Spring Boot 3.5, Spring AI, Spring Batch, Spring Data, JPA/Hibernate
+- Spring Scheduler, Quartz (Cron Jobs), Spring Security, Spring AOP
+- REST APIs, Microservices, Monolithic Architectures
+- MyBatis, MapStruct, Lombok
+- OpenAPI 3 (Swagger)
+- Node.js, Express.js
+- Payment Integration: Razorpay
+- Authentication: Auth0, OAuth2, Google SSO
+
+### Generative AI & LLMs
+
+- Prompt Engineering (OpenAI, Claude, Gemini)
+- LangChain4J (LangChain) for orchestration and tool integration
+- Vector Databases: PGVector (PostgreSQL), knn_vector (OpenSearch), dense_vector (Elasticsearch)
+- Retrieval-Augmented Generation (RAG) pipelines
+- Embedding workflows
+- OpenAI API, AWS Bedrock API
+- Token usage analytics
+- Secure LLM integration with backend services
+- GardRail for LLM output moderation and safety
+- Model Context Protocol (MCP) Client/Server for modular orchestration
+- Structured response generation and validation
+
+### Frontend Development
+
+- Flutter (Android and IOS), Dart, Flutter Flavour
+- React, TailwindCSS
+- HTML, CSS
+
+### Databases
+
+- PostgreSQL, OpenSearch, Elasticsearch, MySQL
+- Firestore (Firebase), MongoDB, H2, SQLite
+- Database Migration: Flyway
+
+### DevOps & Cloud
+
+- Docker, Docker Compose, Layered Docker Images
+- AWS (S3, Lambda, ECS, EC2, SQS), LocalStack
+- JLink, JDeps (Custom JREs)
+- Kibana, OpenSearch Dashboard
+- Eclipse Memory Analyzer Tool (MAT)
+- Firebase, Nginx (Load Balancer)
+
+### Observability & Monitoring
+
+- OpenTelemetry, opentelemetry-collector
+- Prometheus, Grafana, Tempo, Loki
+
+### Tools & Platforms
+
+- IntelliJ IDEA, Postman, Bruno, Maven, Git, GitHub Copilot, Cursor
+
+---
 ## 🌟 Favorite Project
 
 [llm_web_search_agent_java](https://github.com/alanta335/llm_web_search_agent_java)  
