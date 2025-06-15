@@ -1,93 +1,44 @@
-# 👋 Hi, I’m Alanta335
+# Alan T A
 
-**Software Engineer | Fullstack Developer (Backend Enthusiast)  
-"Innovating and leaning one code base at a time"**
+**Software Engineer | Full Stack Developer (Backend Specialist)**
+*Driving innovation and excellence in scalable software solutions*
 
----
+**Core Technologies:** Spring Boot 3.5 · Java 21 · Generative AI · Full-Stack Development
 
-## 🚀 About Me
-
-- 👨‍💻 I’m a passionate software engineer specializing in **backend development**.
-- 💡 My top expertise: **Java** & **Spring Boot**.
-- 🌍 I love building scalable, robust solutions and learning new technologies.
-- 🌱 Currently exploring more in AI, cloud, and automation.
+📧 <alanta335@gmail.com>
+📱 +91 8943085806
+🔗 [LinkedIn - https://www.linkedin.com/in/alanta335](https://www.linkedin.com/in/alanta335) • [GitHub - https://github.com/alanta335](https://github.com/alanta335) • [Portfolio - https://alanta335portfolio.netlify.app](https://alanta335portfolio.netlify.app)
 
 ---
 
-## 🛠️ Tech Stack
+## 🔍 Summary
 
-- **Backend:** Java, Spring Boot, Node, Express Js
-- **Frontend:** React, Flutter
+I am a backend software engineer with a strong track record of building scalable, production-ready systems using **Spring Boot 3.5**, **Java 21**, and cutting-edge Generative AI workflows. My experience spans designing REST APIs, developing asynchronous data pipelines, and implementing full-stack observability with **OpenTelemetry**. I have hands-on expertise integrating AWS services (S3, Lambda, SQS), optimizing deployments with Docker and custom JREs, and delivering robust solutions for global clients. Alongside my backend skills, I am comfortable with frontend development using React and Flutter, and have a solid foundation in distributed systems, DevOps, and modern software engineering practices. I enjoy leading R&D initiatives, driving innovation, and collaborating with teams to deliver impactful results.
 
----
+**Core Skills:** Spring Boot, Java 21, Generative AI, LangChain4J, RAG, REST APIs, Microservices, Spring Batch, AWS (S3, Lambda, SQS), OpenTelemetry, Docker, PostgreSQL, OpenSearch, React, Flutter, OAuth2, Security, DevOps, CI/CD, DDD, TDD, Agile, Git, Blockchain, Embedded Systems
 
 ## 🛠️ Skills
 
-### Programming Languages
+**Programming Languages:** Java 21, Java 17, Dart, SQL, NoSQL, JavaScript, Python, C++, C
 
-- Java 21, Java 17
-- Dart
-- SQL, NoSQL
-- JavaScript
-- Python
-- C++, C
+**Backend Development:** Spring Boot 3.5, Spring AI, Spring Batch, Spring Data, JPA/Hibernate, Spring Scheduler, Quartz, Spring Security, Spring AOP, REST APIs, Microservices, Monolithic Architectures, MyBatis, MapStruct, Lombok, OpenAPI 3 (Swagger), Node.js, Express.js, Razorpay (Payments), Auth0, OAuth2, Google SSO
 
-### Backend Development
+**Generative AI & LLMs:** Prompt Engineering (OpenAI, Claude, Gemini), LangChain4J, RAG pipelines, Vector DBs (PGVector, knn_vector, dense_vector), Embedding workflows, OpenAI API, AWS Bedrock API, Token analytics, GardRail, MCP Client/Server, Structured response validation
 
-- Spring Boot 3.5, Spring AI, Spring Batch, Spring Data, JPA/Hibernate
-- Spring Scheduler, Quartz (Cron Jobs), Spring Security, Spring AOP
-- REST APIs, Microservices, Monolithic Architectures
-- MyBatis, MapStruct, Lombok
-- OpenAPI 3 (Swagger)
-- Node.js, Express.js
-- Payment Integration: Razorpay
-- Authentication: Auth0, OAuth2, Google SSO
+**Frontend Development:** Flutter (Android/iOS), Dart, Flutter Flavour, React, TailwindCSS, Axios, HTML, CSS
 
-### Generative AI & LLMs
+**Databases:** PostgreSQL, OpenSearch, Elasticsearch, MySQL, Firestore, MongoDB, H2, SQLite, Flyway (Migration)
 
-- Prompt Engineering (OpenAI, Claude, Gemini)
-- LangChain4J (LangChain) for orchestration and tool integration
-- Vector Databases: PGVector (PostgreSQL), knn_vector (OpenSearch), dense_vector (Elasticsearch)
-- Retrieval-Augmented Generation (RAG) pipelines
-- Embedding workflows
-- OpenAI API, AWS Bedrock API
-- Token usage analytics
-- Secure LLM integration with backend services
-- GardRail for LLM output moderation and safety
-- Model Context Protocol (MCP) Client/Server for modular orchestration
-- Structured response generation and validation
+**Blockchain:** Solidity (Ethereum), testnets, Alchemy API, MetaMask integration, Flutter blockchain apps, Wallet connect, contract calls, Blockchain data & transaction workflows
 
-### Frontend Development
+**Arduino & Embedded:** Arduino Uno, NRF24L01, HC-05, Sensor interfacing (Bluetooth/Radio), Real-time data acquisition, IoT prototyping (Arduino IDE), Cloud integration (Firebase)
 
-- Flutter (Android and IOS), Dart, Flutter Flavour
-- React, TailwindCSS
-- HTML, CSS
+**DevOps & Cloud:** Docker, Docker Compose, Layered Images, AWS (S3, Lambda, ECS, EC2, SQS), LocalStack, JLink, JDeps (Custom JREs), Kibana, OpenSearch Dashboard, Eclipse MAT, Firebase, Nginx
 
-### Databases
-
-- PostgreSQL, OpenSearch, Elasticsearch, MySQL
-- Firestore (Firebase), MongoDB, H2, SQLite
-- Database Migration: Flyway
-
-### DevOps & Cloud
-
-- Docker, Docker Compose, Layered Docker Images
-- AWS (S3, Lambda, ECS, EC2, SQS), LocalStack
-- JLink, JDeps (Custom JREs)
-- Kibana, OpenSearch Dashboard
-- Eclipse Memory Analyzer Tool (MAT)
-- Firebase, Nginx (Load Balancer)
-
-### Observability & Monitoring
-
-- OpenTelemetry, opentelemetry-collector
-- Prometheus, Grafana, Tempo, Loki
-
-### Tools & Platforms
-
-- IntelliJ IDEA, Postman, Bruno, Maven, Git, GitHub Copilot, Cursor
+**Observability & Tools:** OpenTelemetry, opentelemetry-collector, Prometheus, Grafana, Tempo, Loki, IntelliJ IDEA, Postman, Bruno, Maven, Git, GitHub Copilot, Cursor
 
 ---
+
 ## 💼 Experience
 
 ### Software Engineer
@@ -127,6 +78,32 @@
 
 ---
 
+## 🧑‍💻 Internships
+
+### FullStack Flutter Developer Intern
+
+**SANCHARI (Cisco, NASSCOM Foundation ThingQbator program)**
+*July 2021 – September 2021*
+
+- Worked as a FullStack Flutter Developer intern in a team of 4 interns and 1 guide to build a Travel Guide app from the ground up; app published on Play Store for testing.
+- Created user registration using Firebase Authentication.
+- Built a page to add travel routes.
+- Developed Google Maps integration for travel routes, live location sharing, SOS messaging, and nearby help locations (police stations, hospitals, repair shops), and interest location finder.
+- Implemented real-time weather and news updates for travel routes.
+
+### Web Development Intern
+
+**Kanjikode Industries Forum (KIF)**
+*2021*
+
+- Developed a React web application to showcase all companies under KIF and their products.
+- Built features to display detailed information about each company, their products, KIF organization details, and board members.
+- Collaborated with a team to design and implement the MySQL database backend.
+- Deployed and hosted the application on AWS EC2.
+- Website: [https://kifproducts.com/](https://kifproducts.com/)
+
+---
+
 ## 🎓 Education
 
 **Bachelor of Technology (BTech) in Computer Science**
@@ -138,29 +115,67 @@ NSS College of Engineering, Palakkad
 
 ---
 
-## 🌟 Favorite Project
+## 🏆 Certifications
 
-[llm_web_search_agent_java](https://github.com/alanta335/llm_web_search_agent_java)  
-_A project that integrates LLMs with web search capabilities, built with Java._
-
----
-
-## 📂 Noteworthy Repositories
-
-- [spring_batch_with_spring_quartz](https://github.com/alanta335/spring_batch_with_spring_quartz) — Spring Batch & Spring Quartz integration, showcasing horizontal scalability.
-- [spring_batch_jpa_demo_project](https://github.com/alanta335/spring_batch_jpa_demo_project) — Demo of Spring Batch with Spring Data JPA.
-- [interview-sim](https://github.com/alanta335/interview-sim) — An interactive interview simulator (JavaScript, CSS, HTML).
-- [SpringBoot_MCP_Server_example](https://github.com/alanta335/SpringBoot_MCP_Server_example) — Spring Boot MCP server example.
-- [SpringBoot_MCP_Client_example](https://github.com/alanta335/SpringBoot_MCP_Client_example) — MCP client built with Spring Boot.
-- [interview-sim-backend](https://github.com/alanta335/interview-sim-backend) — Backend for the interview simulator (Java, PLpgSQL).
+- **Introduction to Flutter Development** – London App Brewery
+- **Programming for Everybody (Getting Started with Python)** – Coursera (University of Michigan)
+- **Python Data Structures** – Coursera (University of Michigan)
+- **Crash Course on Python** – Coursera (Google)
 
 ---
 
-## 🌐 Find Me Online
+## 🏅 Achievements
 
-- 🖥️ [Portfolio Website](https://alanta335portfolio.netlify.app/)
+- **Top 10 Team, Reboot Kerala Hackathon (Health Sector)** – ASAP Kerala, 2020
+- **Team Head, Android Application Development** – Dyuksha, NSS College of Engineering, 2023
+- **1st Place, Hackfit 2022** – National Level Hackathon by ICEFOSS FISAT, 2022
+- **1st Place, AIDEATHON** – NSS College of Engineering, Palakkad, 2020
+- **1st Place, DedSec CTF** – Solasta, 2022
+- **2nd Place, Hackathon FOSSEra** – FOSSNSS & HASP, 2022
+- **7242nd Position, Google Hash Code**, 2021
+- **7421st Position, CTFlearn**, 2020
 
 ---
 
-Thanks for stopping by!  
-Let’s connect and innovate together 🚀
+## 🌐 Languages
+
+- **English** – Fluent
+- **Malayalam** – Fluent
+- **Hindi** – Fluent
+
+---
+
+## 📂 Projects
+
+- **Smart Covid QR Scanner (Flutter, 01/2021):** Mobile app for contactless visitor tracking via QR codes.
+  [https://github.com/alanta335/qr_code-_scanner_for_covid_list](https://github.com/alanta335/qr_code-_scanner_for_covid_list)
+
+- **CTF Writeup (09/2020):** Solutions for CTF challenges in web, crypto, forensics, and more.
+  [https://github.com/alanta335/ctfs](https://github.com/alanta335/ctfs)
+
+- **Smart Doctor Patient Management (Flutter, 01/2022):** Cross-platform app for managing appointments and records using Firebase.
+  [https://github.com/alanta335/smart_doctor_patient_detail_management_flutter_app](https://github.com/alanta335/smart_doctor_patient_detail_management_flutter_app)
+
+- **Student Profile Management (Flutter, PHP, MySQL, 03/2022):** CRUD app with Firebase auth and PHP/MySQL backend.
+  [https://github.com/alanta335/flutter_php_mysql_app_student_profile_management](https://github.com/alanta335/flutter_php_mysql_app_student_profile_management)
+
+- **Anonymous Drug Reporting (Flutter, ML, 05/2022):** App for anonymous incident reporting with maps, clustering, and spam detection.
+  [https://github.com/alanta335/anonymous-drug-reporting-flutter-app](https://github.com/alanta335/anonymous-drug-reporting-flutter-app)
+
+- **Product Authentication via Blockchain (Ethereum, 01/2022):** Smart contract solution for product authentication and tracking using QR codes.
+  [https://github.com/alanta335/smart_doctor_patient_detail_management_flutter_app](https://github.com/alanta335/smart_doctor_patient_detail_management_flutter_app)
+
+- **Vehicle-to-Vehicle Communication (Arduino, Kotlin, 04/2023):** Network-free traffic congestion detection and SOS broadcasting system.
+  [https://github.com/alanta335/v2v_Arduino_Kotlin_Communication](https://github.com/alanta335/v2v_Arduino_Kotlin_Communication)
+
+- **LLM Web Search Agent:** Java/Spring Boot tool for LLM-powered web search, scraping, and knowledge base creation with SearxNG and semantic processing.
+  [GitHub](https://github.com/alanta335/llm_web_search_agent_java)
+
+- **Spring Batch + Quartz + PostgreSQL + NGINX + LocalStack:** Dockerize batch job environment with advanced scheduling, PostgreSQL, S3 (LocalStack), and NGINX reverse proxy.
+  [GitHub](https://github.com/alanta335/spring_batch_with_spring_quartz)
+
+- **E-commerce Website (React, Tailwind, Firebase, Razorpay, Google Cloud Run):** E-commerce platform for selling tote bags, built with React and Tailwind CSS, using Firebase for backend, Razorpay for payments, and deployed on Google Cloud Run.
+  [https://github.com/alanta335/ecomerse_website_react_firebase](https://github.com/alanta335/ecomerse_website_react_firebase)
+
+- **AI Agent Doctor (Flutter, LLM, Groq):** AI-powered doctor assistant app for users without access to real doctors, built with Flutter and LLM Groq.
+  [https://github.com/alanta335/ai-agent](https://github.com/alanta335/ai-agent)
