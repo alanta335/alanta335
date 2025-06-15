@@ -6,7 +6,6 @@
 **Core Technologies:** Spring Boot 3.5 · Java 21 · Generative AI · Full-Stack Development
 
 📧 <alanta335@gmail.com>
-📱 +91 8943085806
 🔗 [LinkedIn - https://www.linkedin.com/in/alanta335](https://www.linkedin.com/in/alanta335) • [GitHub - https://github.com/alanta335](https://github.com/alanta335) • [Portfolio - https://alanta335portfolio.netlify.app](https://alanta335portfolio.netlify.app)
 
 ---
